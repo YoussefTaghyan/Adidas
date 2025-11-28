@@ -68,7 +68,7 @@ nav ul li{
 }
 nav ul li:hover{
     background:rgb(34, 237, 179);
-    padding:10px;
+    
     border-radius: 45px;
     
 }
@@ -115,7 +115,7 @@ nav ul li a{
 }
  .imge img:hover{
     width:1000;
-    padding:90px;
+
 }
 .photo{
    display:flex;
@@ -205,3 +205,4 @@ footer ul li a{
     }
 
 }
+
