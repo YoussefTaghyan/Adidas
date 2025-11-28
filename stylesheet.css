@@ -78,6 +78,7 @@ nav ul li:hover{
 nav ul li a{
     text-decoration:none;
     color:white;
+    padding:10px;
     border-radius: 45px;
     
 }
@@ -208,5 +209,6 @@ footer ul li a{
     }
 
 }
+
 
 
