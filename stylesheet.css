@@ -63,19 +63,22 @@ nav ul li{
     
            display:inline-block;
            margin:1px 20px;
+           padding:10px;
            transition: 0.4s;
+           border-radius: 45px;
            
 }
 nav ul li:hover{
     background:rgb(34, 237, 179);
     
-    border-radius: 45px;
+    
     
 }
 
 nav ul li a{
     text-decoration:none;
     color:white;
+    border-radius: 45px;
     
 }
 
@@ -205,4 +208,5 @@ footer ul li a{
     }
 
 }
+
 
